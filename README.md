@@ -80,7 +80,7 @@ streamlit run app.py
 
 ## Author
 
-Data Queen
+Manu Chauhan
 
 ## License
 
