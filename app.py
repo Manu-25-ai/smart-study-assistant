@@ -141,7 +141,7 @@ html, body, [data-testid="stAppViewContainer"], [data-testid="stApp"] {
 st.markdown("""
 <div class="hero">
     <div class="hero-badge">✦ Whisper · Gemini AI</div>
-    <div class="hero-title">Turn Any Video Into Smart Notes</div>
+    <div class="hero-title">Smart Study Assistant – AI-Powered Video-to-Notes Generator</div>
     <div class="hero-sub">Paste a YouTube link or upload a file — get a transcript, summary, key points and a quiz instantly.</div>
 </div>
 <div class="divider"></div>
